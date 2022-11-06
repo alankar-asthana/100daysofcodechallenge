@@ -5,9 +5,11 @@ For this exercise, we'll work with the primitives used to hold integer values (b
 •	A short is a 16-bit signed integer.
 •	An int is a 32-bit signed integer.
 •	A long is a 64-bit signed integer.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Given an input integer, you must determine which primitive data types are capable of properly storing that input.
 To get you started, a portion of the solution is provided for you in the editor.
 Reference: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Input Format
 The first line contains an integer, , denoting the number of test cases.
 Each test case, , is comprised of a single line with an integer, , which can be arbitrarily large or small.
