@@ -1,4 +1,4 @@
-# Busy Week
+# Lucky Week
 We are gonna announce a lucky week where a lucky attendee who attends the event in that week will get a bumper price. 
 So to spread out the chances, we want the busiest week to be the lucky week. We have the list of all events happening 
 in the month with name, date, and attendees count. So write a program to find the week with maximum bookings to announce 
